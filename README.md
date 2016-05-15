@@ -1,1 +1,1 @@
-# dataproducts
+# Coursera DataProducts course project repository
